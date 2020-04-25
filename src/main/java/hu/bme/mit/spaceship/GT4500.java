@@ -89,6 +89,7 @@ public class GT4500 implements SpaceShip {
     }
     //valtoztatas A
 
+    // valtoztatas B
     return firingSuccess;
   }
 
